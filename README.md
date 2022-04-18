@@ -5,8 +5,8 @@
 
 ### dataset 설명
 33개의 class로 구분된 약 40000장의 이미지
-![dataset](https://user-images.githubusercontent.com/46666833/163783617-4ec771a6-b699-4e85-a820-2b798e7010b4.PNG)
-9개의 작물과 24개의 질병으로 구성되어 있음 -> multi-class classification
+![dataset](https://user-images.githubusercontent.com/46666833/163783617-4ec771a6-b699-4e85-a820-2b798e7010b4.PNG)  
+9개의 작물과 24개의 질병으로 구성되어 있음 -> multi-class classification 
 
 ### 분석 과정
 1. 데이터 전처리
